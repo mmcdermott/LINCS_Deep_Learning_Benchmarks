@@ -14,4 +14,5 @@ To access the fully processed dataset or graphs (though fully derived from publi
 The code used to run the GCNNs is available [here](https://github.com/mmcdermott/cnn_graph), but the original source is
 
 **Citation:** Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst, [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375), Neural Information Processing Systems (NIPS), 2016.
+
 **Github:** https://github.com/mdeff/cnn_graph
