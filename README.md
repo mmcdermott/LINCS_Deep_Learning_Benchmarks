@@ -1,7 +1,7 @@
 # LINCS (GSE92742) Deep Learning Benchmarks
 A collection of benchmark tasks and results for the LINCS dataset.
 
-To access the fully processed dataset or graphs (though fully derived from public data), including all cross validation folds, exactly as was used in this work, contact [mmd@mit.edu](mailto:mmd@mit.edu).
+To access the fully processed dataset or graphs (though fully derived from public data), including all cross validation folds, exactly as was used in this work, and/or our hyperparameter search results, contact [mmd@mit.edu](mailto:mmd@mit.edu).
 
 [`Hyperparameter Optimization Results.ipynb`](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/Hyperparameter%20Optimization%20Results.ipynb) contains a record of all hyperparameter search results and optimal findings--if you want to run it, first you need to download the data file (contact [mmd@mit.edu](mailto:mmd@mit.edu) and place it in the right location, then it should be completely reproducible.
 
