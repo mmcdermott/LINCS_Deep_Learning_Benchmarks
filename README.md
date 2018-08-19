@@ -12,7 +12,4 @@ To access the fully processed dataset or graphs (though fully derived from publi
 [`sklearn_classifiers.py`](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/sklearn_classifiers.py) contains code used to build the random samples for sklearn classifiers.
 
 The code used to run the GCNNs is available [here](https://github.com/mmcdermott/cnn_graph), but the original source is
-
-**Citation:** Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst, [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375), Neural Information Processing Systems (NIPS), 2016.
-
-**Github:** https://github.com/mdeff/cnn_graph
+accessible at https://github.com/mdeff/cnn_graph, via [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375).
