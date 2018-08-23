@@ -1,5 +1,5 @@
 # LINCS (GSE92742) Deep Learning Benchmarks
-A collection of benchmark tasks and results for the LINCS dataset. See our [BioKDD '18](http://home.biokdd.org/biokdd18/index.html) [Paper](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/camera-ready.pdf) or [Poster](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/biokdd-18-poster.pdf) for more information.
+A collection of benchmark tasks and results for the LINCS dataset. See our [BioKDD](http://home.biokdd.org/biokdd18/index.html) '18 [Paper](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/camera-ready.pdf) or [Poster](https://github.com/mmcdermott/LINCS_Deep_Learning_Benchmarks/blob/master/biokdd-18-poster.pdf) for more information.
 
 To access the fully processed dataset or graphs (though fully derived from public data), including all cross validation folds, exactly as was used in this work, and/or our hyperparameter search results, contact [mmd@mit.edu](mailto:mmd@mit.edu).
 
